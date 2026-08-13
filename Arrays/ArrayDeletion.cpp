@@ -28,13 +28,13 @@ int main () {
         std::cout <<arr[i]<<" | ";
     }
 
-    //delete beginning
+    //Delete beginning
     for (int i = 0; i < n - 1; i++) {
         arr[i] = arr[i+1];
     }
     n--;
 
-    //delete end
+    //Delete end
     n--;
 
 
@@ -43,7 +43,7 @@ int main () {
         std::cout <<arr[i]<<" | ";
     }
 
-    //delete position
+    //Delete position
     int pos;
     std::cout <<"\nEnter position to delete : ";
     std::cin >>pos;
