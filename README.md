@@ -1,3 +1,3 @@
 # DSA-with-C-
 
-All the data structures!
+All about data structures (Arrays, Stacks, Queues, Linked Lists, etc)!
